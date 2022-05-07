@@ -1,0 +1,7 @@
+2022-04-30 18:04:46.988 [main] INFO  MainProgram.Main.main(Main.java:12) - Enter the program to run:
+2022-04-30 18:04:46.990 [main] INFO  MainProgram.Main.main(Main.java:13) - 1. BasicCalculator
+2022-04-30 18:04:46.991 [main] INFO  MainProgram.Main.main(Main.java:14) - 2. BinarySearch
+2022-04-30 18:04:46.991 [main] INFO  MainProgram.Main.main(Main.java:15) - 3. BMI
+2022-04-30 18:04:46.992 [main] INFO  MainProgram.Main.main(Main.java:16) - 4. LinearSearch
+2022-04-30 18:04:46.992 [main] INFO  MainProgram.Main.main(Main.java:17) - 5. Palindrome
+2022-04-30 18:05:04.012 [main] INFO  MainProgram.Main.main(Main.java:26) - Invalid choice
